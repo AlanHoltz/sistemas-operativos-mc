@@ -1,10 +1,5 @@
 # SOMC
 ![enter image description here](https://i.imgur.com/s0GY3Cy.png)
-<p align="left">
-<img src="https://img.shields.io/badge/Creado%20por-belgica-green">
-<img src="https://img.shields.io/badge/Colaborador%20-RamPanic-red">
-    <a href="https://github.com/belgica-real?tab=repositories"><img src="https://img.shields.io/badge/Ver%20m%C3%A1s-repositorios-yellow"></a>
-</p>
 
 Pon a prueba tus "conocimientos" de Sistemas Operativos basado en los apuntes de la UTN con este pequeño programa.
 
